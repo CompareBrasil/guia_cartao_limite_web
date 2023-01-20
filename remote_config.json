@@ -1,9 +1,9 @@
 {
   "showAds":true,
-  "adsInterval":60,
+  "adsInterval":45,
   "showAppOpenAd":true,
   "showFirstAd":true,
-  "showTestAds":true,
-  "interstitialAdUnit":"ca-app-pub-3940256099942544/1033173712",
-  "openAppAdUnitId":"ca-app-pub-3940256099942544/3419835294"
+  "showTestAds":false,
+  "interstitialAdUnit":"/22405025169,22727539007/com.comparebrasil.cartao.limite.alto.Interstitial",
+  "openAppAdUnitId":"/22405025169,22727539007/com.comparebrasil.cartao.limite.alto.AppOpen"
 }
